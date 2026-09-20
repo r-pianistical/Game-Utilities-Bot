@@ -1,0 +1,14 @@
+{
+"name": "game-utilities-bot",
+"version": "1.0.0",
+"description": "Pianistical Technologies bot for Roblox Game Utilities",
+"main": "bot.js",
+"scripts": {
+"start": "node bot.js"
+},
+"dependencies": {
+"axios": "^1.7.0",
+"discord.js": "^14.14.0",
+"dotenv": "^16.4.5"
+}
+}
